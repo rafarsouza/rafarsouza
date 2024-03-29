@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1500&pause=1500&color=CAEAFC&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+it's+Rafa+%F0%9F%91%8B;I'm+a+Full-Stack+developer+%F0%9F%92%BB;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1500&pause=1500&color=CAEAFC&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+it's+Rafa+%F0%9F%91%8B;I'm+a+Full-Stack+developer+%F0%9F%92%BB;Welcome+to+my+profile+%3A)" alt="Typing SVG" />
 </div>
 
-<a href="#"><img align="right" height="220em" src="https://i.ibb.co/x173f6z/9ce34b1d36d3095d1259c1c8ef2a3f6f.png"/></a> 
+<img align="right" height="220em" src="https://i.ibb.co/x173f6z/9ce34b1d36d3095d1259c1c8ef2a3f6f.png"/>
 
 <div >
   <h3>things I love:</h3>
